@@ -1,16 +1,67 @@
-# quiz_app
+# 💻 app - Desenvolvimento do aplicativo para disciplina PPGIA
 
-A new Flutter application.
+# 👉  Título: QUIZ Segurança da Informação <a id="link1"></a>
 
-## Getting Started
+# 👉 Descrição: <a id="link2"></a>
 
-This project is a starting point for a Flutter application.
+* Quiz sobre Segurança da Informação para usuários de estações locais baseado nas normas técnicas internacionais ISO, família 27001 a 27005.
+* Nesta aplicação o usuário responderá a uma série de perguntas sobre segurança da informação, e estas respostas servirão para dois fatores:
+  1. Fornecer informações para parte da pesquisa qualitativa desta pesquisa de mestrado
+  2. Mostrar ao usuário vulnerabilidades que podem ser tratadas, melhoradas e/ou corrigidas para elevar o nível de segurança da informação no ambiente testado, no ponto mais vulnerável e suscetível a falhas e ataques, que é o usuário.
+ 
+* O aplicativo tratará todas as respotas fornecidas, pontuará cada uma delas segundo critérios ainda a definir, e retornará ao usuário informações relevantes do estado atual de sua estação de trabalho em relação à segurança da informação, tais como:
+  1. Estado atual: Crítico; Baixo; Médio; Bom; Excelente.
+  2. Ações preventivas e corretivas
 
-A few resources to get you started if this is your first Flutter project:
+# 👉 Índice
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+   * [Título](#link1)
+   * [Descrição](#link2)
+   * [Status do projeto](#link3)
+   * [Features](#link4)
+   * [Demonstração da Aplicação](#link5)
+   * [Pré-requisitos](#link6)
+   * [Tecnologias utilizadas](#link7)
+   * [Contribuições](#link8)
+   * [Autor](#link9)
+   * [Licença](#link10)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# 👉 Status do Projeto <a id="link3"></a>
+
+* Em desenvolvimento... ⚠️ 👨‍💻
+
+# 👉 Features <a id="link4"></a>
+
+* Aqui é possível ver todas as funcionalidades/telas da app
+
+[ ] Cadastro de usuário
+
+[ ] Tela de Login
+
+[ ] Perguntas
+
+[ ] Resultado da pontuação
+
+[ ] Estado atual
+
+[ ] Respostas de correção ao usuário
+
+[ ] Tela de agradecimento
+
+# 👉 Demonstração da Aplicação <a id="link5"></a>
+
+# 👉 Pré-requisitos <a id="link6"></a>
+
+* Instalar o SDK Flutter na versão mais atualizada;
+* Ter um Editor de Texto com as extensões Flutter e Dart Instaladas; Neste projeto é utilizado o VSCode.
+
+# 👉 Tecnologias Utilizadas <a id="link7"></a>
+
+# 👉 Contribuição <a id="link8"></a>
+
+# 👉 Autor <a id="link9"></a>
+
+* Saulo Marques
+
+# 👉 Licença <a id="link10"></a>
