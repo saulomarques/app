@@ -47,8 +47,6 @@
 
 [ ] Respostas de correção ao usuário
 
-[ ] Tela de agradecimento
-
 # 👉 Demonstração da Aplicação <a id="link5"></a>
 
 # 👉 Pré-requisitos <a id="link6"></a>
