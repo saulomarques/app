@@ -41,11 +41,11 @@
 
 [ ] Perguntas
 
-[ ] Resultado da pontuação
+[ ] Resultado:
 
-[ ] Estado atual
+    * Estado atual
 
-[ ] Respostas de correção ao usuário
+    * Respostas de correção ao usuário
 
 # 👉 Demonstração da Aplicação <a id="link5"></a>
 
