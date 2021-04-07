@@ -52,7 +52,7 @@
 # 👉 Pré-requisitos <a id="link6"></a>
 
 * Instalar o SDK Flutter na versão mais atualizada;
-* Ter um Editor de Texto com as extensões Flutter e Dart Instaladas; Neste projeto é utilizado o VSCode.
+* Ter um Editor de Texto com as extensões Flutter e Dart Instaladas; Neste projeto é utilizado o Android Studio.
 
 # 👉 Tecnologias Utilizadas <a id="link7"></a>
 
