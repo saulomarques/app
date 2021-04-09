@@ -1,5 +1,7 @@
 # ![alt text](https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png)
 
+<img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" alt="drawing" width="200" heigth="200"/>
+
 # 👉  Título: QUIZ SegInfo <a id="link1"></a>
 
 # 👉 Descrição: <a id="link2"></a>
