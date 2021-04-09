@@ -1,6 +1,6 @@
-# 💻 app - Desenvolvimento do aplicativo para disciplina PPGIA
+# ![alt text](https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png)
 
-# 👉  Título: QUIZ Segurança da Informação <a id="link1"></a>
+# 👉  Título: QUIZ SegInfo <a id="link1"></a>
 
 # 👉 Descrição: <a id="link2"></a>
 
