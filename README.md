@@ -1,6 +1,4 @@
-# ![alt text](https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png)
-
-<img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" alt="drawing" width="200" heigth="200"/>
+# <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" alt="drawing" width="200" heigth="200"/>
 
 # 👉  Título: QUIZ SegInfo <a id="link1"></a>
 
@@ -23,7 +21,7 @@
    * [Features](#link4)
    * [Demonstração da Aplicação](#link5)
    * [Pré-requisitos](#link6)
-   * [Tecnologias utilizadas](#link7)
+   * [Widget Tree](#link7)
    * [Contribuições](#link8)
    * [Autor](#link9)
    * [Licença](#link10)
@@ -54,9 +52,11 @@
 # 👉 Pré-requisitos <a id="link6"></a>
 
 * Instalar o SDK Flutter na versão mais atualizada;
-* Ter um Editor de Texto com as extensões Flutter e Dart Instaladas; Neste projeto é utilizado o Android Studio.
+* Ter um Editor de Texto com as extensões Flutter e Dart Instaladas.
 
-# 👉 Tecnologias Utilizadas <a id="link7"></a>
+# 👉 Widget Tree <a id="link7"></a>
+
+<img scr="https://github.com/saulomarques/app/blob/master/widgettree_quiz.pdf"></img>
 
 # 👉 Contribuição <a id="link8"></a>
 
