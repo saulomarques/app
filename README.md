@@ -38,6 +38,10 @@
 
 * Aqui é possível ver todas as funcionalidades/telas da app
 
+[ ] Home
+
+[ ] Menu
+
 [ ] Cadastro de usuário
 
 [ ] Tela de Login
