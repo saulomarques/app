@@ -56,7 +56,7 @@
 
 # 👉 Widget Tree <a id="link7"></a>
 
-<img src="https://github.com/saulomarques/app/blob/master/WidgetTree1.png/>
+<img src="https://github.com/saulomarques/app/blob/master/WidgetTree1.png" />
 
 # 👉 Contribuição <a id="link8"></a>
 
