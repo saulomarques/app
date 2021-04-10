@@ -3,6 +3,11 @@
   //<img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" align="left" width="250" heigth="250"/>
   //<img src="https://github.com/saulomarques/app/blob/master/Banner%20Quiz%20SegInfo.png" align="center" width="750" heigth="250"/>
   
+  <p float="left">
+  <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" width="250" heigth="250" />
+  <img src="https://github.com/saulomarques/app/blob/master/Banner%20Quiz%20SegInfo.png" align="center" width="750" heigth="250" /> 
+</p>
+  
 # 👉 Descrição: <a id="link2"></a>
 
 * Quiz sobre Segurança da Informação para usuários de estações locais baseado nas normas técnicas internacionais ISO, família 27001 a 27005.
