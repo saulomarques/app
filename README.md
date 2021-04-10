@@ -1,10 +1,7 @@
 # 👉  Título: QUIZ SegInfo <a id="link1"></a>
 
-  //<img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" align="left" width="250" heigth="250"/>
-  //<img src="https://github.com/saulomarques/app/blob/master/Banner%20Quiz%20SegInfo.png" align="center" width="750" heigth="250"/>
-  
-  <p float="left">
-  <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" width="250" heigth="250" />
+   <p float="left">
+  <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" width="250" heigth="200" />
   <img src="https://github.com/saulomarques/app/blob/master/Banner%20Quiz%20SegInfo.png" align="center" width="750" heigth="250" /> 
 </p>
   
