@@ -1,4 +1,4 @@
-# <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" alt="drawing" width="200" heigth="200"/>
+# <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" width="200" heigth="200"/>
 
 # 👉  Título: QUIZ SegInfo <a id="link1"></a>
 
@@ -56,7 +56,7 @@
 
 # 👉 Widget Tree <a id="link7"></a>
 
-<img scr="https://github.com/saulomarques/app/blob/master/widgettree_quiz.pdf"></img>
+<img src="https://github.com/saulomarques/app/blob/master/widgettree_quiz.pdf"/>
 
 # 👉 Contribuição <a id="link8"></a>
 
