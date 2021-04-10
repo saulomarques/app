@@ -1,7 +1,7 @@
 # 👉  Título: QUIZ SegInfo <a id="link1"></a>
 
    <p float="left">
-  <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" width="180" heigth="180" />
+  <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" width="190" heigth="190" />
   <img src="https://github.com/saulomarques/app/blob/master/Banner%20Quiz%20SegInfo.png" width="750" /> 
 </p>
   
