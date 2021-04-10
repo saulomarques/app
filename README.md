@@ -1,6 +1,9 @@
 # 👉  Título: QUIZ SegInfo <a id="link1"></a>
 
-# <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" width="200" heigth="200"/>
+<div>
+  <img src="https://github.com/saulomarques/app/blob/master/Logo_Quiz%20SI.png" align="left" width="200" heigth="200"/>
+  Perguntas e respostas sobre Segurança da Informação do Usuário com base nas cartilhas Cert.br
+</div>
 
 # 👉 Descrição: <a id="link2"></a>
 
@@ -56,7 +59,7 @@
 
 # 👉 Widget Tree <a id="link7"></a>
 
-<img src="https://github.com/saulomarques/app/blob/master/WidgetTree1.png" /><br>
+<img src="https://github.com/saulomarques/app/blob/master/WidgetTree1.png" />
 <img src="https://github.com/saulomarques/app/blob/master/WidgetTree2.png" />
 
 # 👉 Contribuição <a id="link8"></a>
