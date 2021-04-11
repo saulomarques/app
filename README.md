@@ -57,7 +57,7 @@
 
 # 👉 Demonstração da Aplicação <a id="link5"></a>
 
-[![Watch the video](https://youtu.be/Saf9jnxSalo)
+[Watch the video](https://youtu.be/Saf9jnxSalo)
 
 # 👉 Pré-requisitos <a id="link6"></a>
 
