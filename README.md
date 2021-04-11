@@ -25,9 +25,10 @@
    * [Demonstração da Aplicação](#link5)
    * [Pré-requisitos](#link6)
    * [Widget Tree](#link7)
-   * [Contribuições](#link8)
-   * [Autor](#link9)
-   * [Licença](#link10)
+   * [Gráfico de navegação das telas](#link8)
+   * [Contribuições](#link9)
+   * [Autor](#link10)
+   * [Licença](#link11)
 
 
 # 👉 Status do Projeto <a id="link3"></a>
@@ -66,10 +67,14 @@
 <img src="https://github.com/saulomarques/app/blob/master/WidgetTree1.png" />
 <img src="https://github.com/saulomarques/app/blob/master/WidgetTree2.png" />
 
-# 👉 Contribuição <a id="link8"></a>
+# 👉 Gráfico de navegação das telas <a id="link8"></a>
 
-# 👉 Autor <a id="link9"></a>
+<img src="https://github.com/saulomarques/app/blob/master/Telas_Conexoes_app.jpg" />
+
+# 👉 Contribuição <a id="link9"></a>
+
+# 👉 Autor <a id="link10"></a>
 
 * Saulo Marques
 
-# 👉 Licença <a id="link10"></a>
+# 👉 Licença <a id="link11"></a>
