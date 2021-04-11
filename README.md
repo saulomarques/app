@@ -7,7 +7,7 @@
   
 # 👉 Descrição: <a id="link2"></a>
 
-* Quiz sobre Segurança da Informação para usuários de estações locais baseado nas normas técnicas internacionais ISO, família 27001 a 27005.
+* Quiz sobre Segurança da Informação para usuários de estações locais baseado nas Cartilhas de segurança do Cert.br.
 * Nesta aplicação o usuário responderá a uma série de perguntas sobre segurança da informação, e estas respostas servirão para dois fatores:
   1. Fornecer informações para parte da pesquisa qualitativa desta pesquisa de mestrado
   2. Mostrar ao usuário vulnerabilidades que podem ser tratadas, melhoradas e/ou corrigidas para elevar o nível de segurança da informação no ambiente testado, no ponto mais vulnerável e suscetível a falhas e ataques, que é o usuário.
