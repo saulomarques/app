@@ -56,8 +56,7 @@
     * Respostas de correção ao usuário
 
 # 👉 Demonstração da Aplicação <a id="link5"></a>
-<a href="https://youtu.be/Saf9jnxSalo"><img src="https://github.com/saulomarques/app/blob/master/imagem_video.jpg" title="Clique e assista ao vídeo no YouTube" width="600" height="400" /></a>
-[![Clique e assista ao vídeo no YouTube](https://github.com/saulomarques/app/blob/master/imagem_video.jpg)](https://youtu.be/Saf9jnxSalo)
+<a href="https://youtu.be/Saf9jnxSalo"><img src="https://github.com/saulomarques/app/blob/master/imagem_video.jpg" title="Clique e assista ao vídeo no YouTube" width="750" height="400" /></a>
 
 # 👉 Pré-requisitos <a id="link6"></a>
 
