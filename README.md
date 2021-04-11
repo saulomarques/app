@@ -57,7 +57,7 @@
 
 # 👉 Demonstração da Aplicação <a id="link5"></a>
 
-[Watch the video](https://youtu.be/Saf9jnxSalo)
+[![Clique e assista ao vídeo no YouTube](https://github.com/saulomarques/app/blob/master/imagem_video.jpg)](https://youtu.be/Saf9jnxSalo)
 
 # 👉 Pré-requisitos <a id="link6"></a>
 
