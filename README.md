@@ -56,8 +56,8 @@
     * Respostas de correção ao usuário
 
 # 👉 Demonstração da Aplicação <a id="link5"></a>
-
-[width=400[![Clique e assista ao vídeo no YouTube](https://github.com/saulomarques/app/blob/master/imagem_video.jpg)]](https://youtu.be/Saf9jnxSalo)
+<img src="https://github.com/saulomarques/app/blob/master/imagem_video.jpg" alt="Clique e assista ao vídeo no YouTube" url="https://youtu.be/Saf9jnxSalo" />
+[![Clique e assista ao vídeo no YouTube](https://github.com/saulomarques/app/blob/master/imagem_video.jpg)](https://youtu.be/Saf9jnxSalo)
 
 # 👉 Pré-requisitos <a id="link6"></a>
 
