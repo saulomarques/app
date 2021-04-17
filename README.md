@@ -21,7 +21,7 @@
    * [Título](#link1)
    * [Descrição](#link2)
    * [Status do projeto](#link3)
-   * [Features](#link4)
+   * [Vídeo de Apresentação/ Marketing](#link4)
    * [Demonstração da Aplicação](#link5)
    * [Pré-requisitos](#link6)
    * [Widget Tree](#link7)
@@ -34,25 +34,8 @@
 
 * Em desenvolvimento... ⚠️ 👨‍💻
 
-# 👉 Features <a id="link4"></a>
-
-* Aqui é possível ver todas as funcionalidades/telas da app
-
-[ ] Home
-
-[ ] Menu
-
-[ ] Cadastro de usuário
-
-[ ] Tela de Login
-
-[ ] Perguntas
-
-[ ] Resultado:
-
-    * Estado atual
-
-    * Respostas de correção ao usuário
+# 👉 Vídeo de Apresentação/ Marketing <a id="link4"></a>
+<a href="https://www.youtube.com/watch?v=5NtNpFEypPE"><img src="https://github.com/saulomarques/app/blob/master/imagem_video_mkt.jpg" title="Clique e assista ao vídeo no YouTube" width="750" height="400" /></a>
 
 # 👉 Demonstração da Aplicação <a id="link5"></a>
 <a href="https://youtu.be/Saf9jnxSalo"><img src="https://github.com/saulomarques/app/blob/master/imagem_video.jpg" title="Clique e assista ao vídeo no YouTube" width="750" height="400" /></a>
