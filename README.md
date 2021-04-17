@@ -28,6 +28,7 @@
    * [Gráfico de navegação das telas](#link8)
    * [Contribuições](#link9)
    * [Autor](#link10)
+   * [Licença](#link11)
 
 
 # 👉 Status do Projeto <a id="link3"></a>
@@ -60,3 +61,6 @@
 
 * Saulo Marques
 
+# 👉 Licença <a id="link10"></a>
+
+Copyright Saulo Marques 2021. Todos os direitos reservados.
