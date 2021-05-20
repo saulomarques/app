@@ -26,8 +26,8 @@
    * [Pré-requisitos](#link6)
    * [Widget Tree](#link7)
    * [Gráfico de navegação das telas](#link8)
-   * [Contribuições](#link9)
-   * [Autor](#link10)
+   * [Autor](#link9)
+   * [Colaboradores](#link10)
    * [Licença](#link11)
 
 
@@ -55,12 +55,13 @@
 
 <img src="https://github.com/saulomarques/app/blob/master/Telas_Conexoes_app.jpg" />
 
-# 👉 Contribuição <a id="link9"></a>
-
-# 👉 Autor <a id="link10"></a>
+# 👉 Autor <a id="link9"></a>
 
 * Saulo Marques
 
+# 👉 Colaboradores <a id="link10"></a>
+
+* Guilherme H S Souza
+
 # 👉 Licença <a id="link10"></a>
 
-Copyright Saulo Marques 2021. Todos os direitos reservados.
